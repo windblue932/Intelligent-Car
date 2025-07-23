@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=mot sign out NewDesignator=sign
+Change Component Designator: OldDesignator=WIFI SPI NewDesignator=SPI
+Change Net Name : Old Net Name=Netmot sign out_1 New Net Name=NetR30_2
+Change Net Name : Old Net Name=Netmot sign out_2 New Net Name=NetR31_1
+Change Net Name : Old Net Name=Netmot sign out_5 New Net Name=NetR32_2
+Change Net Name : Old Net Name=Netmot sign out_6 New Net Name=NetR33_1

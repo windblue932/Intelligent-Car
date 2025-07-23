@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=A5 Pin=R35-1
+Added Pin To Net: NetName=A5 Pin=U5-16
+Added Net: Name=A5
+Added Pin To Net: NetName=A7 Pin=R36-1
+Added Pin To Net: NetName=A7 Pin=U5-14
+Added Net: Name=A7
+Added Member To Class: ClassName=U_model Member=Component U5 TC264_CoreBoard

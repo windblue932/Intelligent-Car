@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=VCCBAT Pin=drive2-1
+Removed Pin From Net: NetName=GND Pin=drive2-2
+Removed Member From Class: ClassName=U_powder Member=drive2
+Added Component: Designator=P1(MHDR1X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2(MHDR1X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R36(RESC1608[0603]S-N)
+Add component (AddParameter): Name = "Power"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "V1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "¡À1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Added Component: Designator=SI1(HDR1X3-M)
+Add component (AddParameter): Name = "Revision"; Value = "V1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Header-D-M 1x3P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC5V Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=VCC5V Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P2-3
+Added Pin To Net: NetName=VCC3V3 Pin=SI1-2
+Added Pin To Net: NetName=GND Pin=SI1-3
+Added Pin To Net: NetName=20.10 Pin=R36-1
+Added Pin To Net: NetName=20.10 Pin=U5-53
+Added Net: Name=20.10
+Added Pin To Net: NetName=33.4 Pin=P1-1
+Added Pin To Net: NetName=33.4 Pin=U5-22
+Added Net: Name=33.4
+Added Pin To Net: NetName=33.5 Pin=P2-1
+Added Pin To Net: NetName=33.5 Pin=U5-23
+Added Net: Name=33.5
+Added Pin To Net: NetName=NetR36_2 Pin=R36-2
+Added Pin To Net: NetName=NetR36_2 Pin=SI1-1
+Added Net: Name=NetR36_2
+Added Member To Class: ClassName=U_powder Member=Component P1 MHDR1X3
+Added Member To Class: ClassName=U_powder Member=Component P2 MHDR1X3
+Added Member To Class: ClassName=U_model Member=Component R36 100R ¡À1%
+Added Member To Class: ClassName=U_model Member=Component SI1 Header-D-M 1x3P

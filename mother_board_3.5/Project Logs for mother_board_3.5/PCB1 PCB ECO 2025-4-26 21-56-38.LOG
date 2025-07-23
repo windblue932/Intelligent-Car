@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=VCC3V3 Pin=R18-1
+Removed Pin From Net: NetName=VCC3V3 Pin=R20-1
+Removed Pin From Net: NetName=GND Pin=S2-3
+Removed Pin From Net: NetName=GND Pin=S2-4
+Removed Member From Class: ClassName=U_model Member=cam
+Removed Member From Class: ClassName=U_model Member=R18
+Removed Member From Class: ClassName=U_model Member=R19
+Removed Member From Class: ClassName=U_model Member=R20
+Removed Member From Class: ClassName=U_model Member=R21
+Removed Member From Class: ClassName=U_model Member=S2
+Change Component Designator: OldDesignator=cam NewDesignator=cam_out
+Change Component Designator: OldDesignator=steer NewDesignator=steer_out
+Added Member To Class: ClassName=U_model Member=Component cam_out Header-D-F 2x8P
